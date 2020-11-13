@@ -1,0 +1,6 @@
+$VAR1 = {
+          'add.v' => {
+                       '-path' => 'e:/work1/',
+                       'add.vhd' => 1
+                     }
+        };

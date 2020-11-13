@@ -1,0 +1,6 @@
+$VAR1 = {
+          'mux.v' => {
+                       '-path' => 'e:/work1/',
+                       'mux.vhd' => 1
+                     }
+        };

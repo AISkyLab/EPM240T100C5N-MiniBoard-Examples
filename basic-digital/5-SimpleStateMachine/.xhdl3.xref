@@ -1,0 +1,6 @@
+$VAR1 = {
+          'state_machine.v' => {
+                                 '-path' => 'e:/work1/',
+                                 'state_machine.vhd' => 1
+                               }
+        };
