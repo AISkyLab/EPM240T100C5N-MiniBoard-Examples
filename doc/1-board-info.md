@@ -219,3 +219,15 @@ CPLD要想工作，只有电源供电和下载接口是不够的的，他需要�
 
 
 
+# 5. 参考文档
+
+* [**MAX II CPLD Design Guidelines**](https://www.intel.cn/content/dam/www/programmable/us/en/pdfs/literature/an/an428.pdf)
+
+* [**MAX II Device Handbook**](https://www.intel.cn/content/dam/www/programmable/us/en/pdfs/literature/hb/max2/max2_mii5v1.pdf)
+
+* **[ MAX II和MAX CPLD设计实例](https://www.intel.cn/content/www/cn/zh/programmable/support/support-resources/operation-and-testing/exm-max.html)**
+
+* 《数字电路与逻辑设计》 张俊涛 编著
+* 《EDA技术基础教程》 张俊涛  陈晓莉编著
+* 《FPGA设计技巧与案例开发详解》  韩彬 于萧宇 张雷鸣 编著
+
